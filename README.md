@@ -65,4 +65,5 @@ ID や金額が数字でないとき、金額が 0 以下のとき、指定し�
 
 - GitHub: [@Ryosei1009](https://github.com/Ryosei1009)
 - Portfolio: [www.shinoryo.com](https://www.shinoryo.com)
+- Mail: shinoryo1009@gmail.com
 - GMC RP 公式 X: [@GMCROLEPLAY](https://x.com/GMCROLEPLAY)
